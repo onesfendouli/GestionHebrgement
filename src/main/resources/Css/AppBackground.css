@@ -1,0 +1,182 @@
+.search-box{
+    -fx-background-color:#FFFFFF;
+    -fx-background-radius: 100;
+}
+
+.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+
+.search-button{
+    -fx-background-color: #3263cd;
+    -fx-background-radius: 30;
+}
+
+.right-bar{
+    -fx-background-color: #3263cd;
+}
+
+.shadow{
+    -fx-effect: dropShadow(three-pass-box,rgba(0,0,0,0.1), 10.0 , 0.0 , 0.0 ,10.0);
+}
+
+.chosen-fruit-card{
+    -fx-background-color: #F16C31;
+    -fx-background-radius: 30;
+}
+
+.comboBox{
+    -fx-background-color: rgba(255,255,255,0.3);
+    -fx-background-radius: 30;
+}
+
+.add-btn{
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 100;
+}
+
+.free-delivery-card{
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 25;
+}
+
+.shopping-online-card{
+    -fx-background-color: #3263cd;
+    -fx-background-radius: 30;
+}
+
+.fruit-item{
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 30;
+}
+
+.nav-btn{
+    -fx-background-color: #3263cd;
+    -fx-cursor: hand;
+    -fx-font-family: "Cambria";
+    -fx-font-size: 20px;
+    -fx-text-fill: #fff;
+    -fx-alignment: center;
+}
+
+
+
+.btn{
+    -fx-background-color: #3263cd;
+    -fx-background-radius: 8px;
+    -fx-text-fill: #fff;
+    -fx-font-size:14px;
+    -fx-font-family:"System";
+    -fx-font-weight:800;
+    -fx-cursor: hand;
+}
+
+.btn:hover{
+    -fx-background-color: #2260EFFF;
+    -fx-text-fill: #fff;
+}
+
+
+.comboBox{
+    -fx-background-color: linear-gradient(to bottom, #efefef, #eee);
+    -fx-border-color: #3263cd;
+    -fx-border-width: .8px;
+    -fx-font-family: "Cambria";
+    -fx-border-radius: 4px;
+}
+
+.comboBox:selected{
+    -fx-border-width: 2px;
+}
+
+.textfield{
+    -fx-background-color: linear-gradient(to bottom, #efefef, #eee);
+    -fx-border-color: #3263cd;
+    -fx-border-width: .8px;
+    -fx-font-family: "Cambria";
+    -fx-border-radius: 4px;
+}
+
+.textarea{
+    -fx-background-color: linear-gradient(to bottom, #efefef, #eee);
+    -fx-border-color: #3263cd;
+    -fx-border-width: .8px;
+    -fx-font-family: "Cambria";
+    -fx-border-radius: 4px;
+}
+
+.textarea:focused{
+    -fx-border-width: 1.8px;
+    -fx-background-color: #fff;
+}
+
+.label-ajout{
+    -fx-text-fill: #3263cd;
+    -fx-font-size:18px;
+    -fx-font-family:"Cambria";
+    -fx-font-weight: 800;
+}
+
+.btn-update{
+    -fx-background-color: #259d02;
+    -fx-background-radius: 8px;
+    -fx-text-fill: #878787;
+    -fx-font-size:14px;
+    -fx-font-family:"System";
+    -fx-font-weight:800;
+    -fx-cursor: hand;
+}
+
+.btn-update:hover{
+    -fx-background-color: #32c200;
+    -fx-text-fill: #fff;
+}
+
+.btn-delete{
+    -fx-background-color: #d50505;
+    -fx-background-radius: 8px;
+    -fx-text-fill: #878787;
+    -fx-font-size:14px;
+    -fx-font-family:"System";
+    -fx-font-weight:800;
+    -fx-cursor: hand;
+}
+
+.btn-delete:hover{
+    -fx-background-color: #720000;
+    -fx-text-fill: #fff;
+}
+
+.label-item{
+    -fx-text-fill: #3263cd;
+    -fx-font-size:18px;
+    -fx-font-family:"Cambria";
+    -fx-font-weight: 800;
+}
+
+
+.nav-btn-front{
+    -fx-background-color: #f34900;
+    -fx-cursor: hand;
+    -fx-font-family: "Cambria";
+    -fx-font-size: 20px;
+    -fx-text-fill: #fff;
+    -fx-alignment: left;
+}
+
+.nav-btn-front:hover{
+    -fx-background-color:  #F16C31;
+    -fx-text-fill: #fff;
+}
+
+.like-btn{
+    -fx-background-color: #FFFF;
+}
+
+.like-btn:hover{
+    -fx-background-color:  #E0E0E0FF;
+}
+.bodybg{
+    -fx-background-image: url('background.jpg');
+    -fx-background-size: 100% 100%;
+}
